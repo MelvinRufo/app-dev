@@ -1,6 +1,6 @@
 # My Favorite Movie: Scream
 
-## About the Series
+## About the Movie
 **Scream** is a *Thriller horror* movie set in the 1996s in the Woodsboro, California.
 
 ## Why I Like It
